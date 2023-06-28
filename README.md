@@ -20,4 +20,4 @@ TreeSize Free is a utility that scans your hard drive and shows you how much har
 
 ## Can you install TreeSize Free on a USB stick?
 
-The lightweight app TreeSize Free works directly on the Master File Table (MFT) and reaches extremely high scan speeds. A portable ZIP file enables users to install TreeSize Free on a USB stick. More information is available at https://www.jam-software.com/treesize_free/ New in TreeSize Free version 4.4 • TreeSize Free now supports a Dark Mode.
+The lightweight app TreeSize Free works directly on the Master File Table (MFT) and reaches extremely high scan speeds. A portable ZIP file enables users to install TreeSize Free on a USB stick. More information is available at [treesize_free/](https://tree-size.github.io/) New in TreeSize Free version 4.4 • TreeSize Free now supports a Dark Mode.
