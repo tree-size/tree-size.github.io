@@ -1,7 +1,7 @@
 
 # TreeSize
 
-[treesize](https://tree-size.github.io/) Free is a free powerful software utility to view the space usage on the hard drive.  This tool makes it easy to investigate why decreasing the disk space is available in a computer or a file server. In fact, it allows you to immediately see which folders and subfolders are taking up most of the hard disk space.
+[Treesize](https://tree-size.github.io/) Free is a free powerful software utility to view the space usage on the hard drive.  This tool makes it easy to investigate why decreasing the disk space is available in a computer or a file server. In fact, it allows you to immediately see which folders and subfolders are taking up most of the hard disk space.
 
 You can just execute this tool from the Start menu or right-click on a specific folder. Then, scan the hard drive or folders and see all folders and subfolders in Explorer-like style and you will have full information about the size of every subfolder.
 
