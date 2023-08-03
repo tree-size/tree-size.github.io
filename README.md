@@ -16,7 +16,7 @@ To start [treesize](https://tree-size.github.io/), open the context menu of any 
 
 ## What is TreeSize and what can I do with it?
 
-[treesize](https://tree-size.github.io/) Free is a utility that scans your hard drive and shows you how much hard drive space each folder on the particular partition is using.
+**[treesize](https://tree-size.github.io/)** Free is a utility that scans your hard drive and shows you how much hard drive space each folder on the particular partition is using.
 
 ## Can you install TreeSize Free on a USB stick?
 
