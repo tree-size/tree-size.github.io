@@ -20,4 +20,4 @@ To start [treesize](https://tree-size.github.io/), open the context menu of any 
 
 ## Can you install TreeSize Free on a USB stick?
 
-The lightweight app TreeSize Free works directly on the Master File Table (MFT) and reaches extremely high scan speeds. A portable ZIP file enables users to install TreeSize Free on a USB stick. More information is available at [treesize_free/](https://tree-size.github.io/) New in TreeSize Free version 4.4 • TreeSize Free now supports a Dark Mode.
+The lightweight app **TreeSize** Free works directly on the Master File Table (MFT) and reaches extremely high scan speeds. A portable ZIP file enables users to install TreeSize Free on a USB stick. More information is available at [treesize_free/](https://tree-size.github.io/) New in TreeSize Free version 4.4 • TreeSize Free now supports a Dark Mode.
