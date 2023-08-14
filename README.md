@@ -8,7 +8,7 @@ You can just execute this tool from the Start menu or right-click on a specific 
 
 ### How do I scan with TreeSize?
 
-To scan a file system path, enter the path into the drive drop-down box on top of the directory tree or use the button “Select directory for scan” on the ribbon tab “Home”. You can also double-click on the drive in the [treesize](https://tree-size.github.io/) drive list on the bottom left corner of the window to start a scan.
+To scan a file system path, enter the path into the drive drop-down box on top of the directory tree or use the button “Select directory for scan” on the ribbon tab **“Home”**. You can also double-click on the drive in the [treesize](https://tree-size.github.io/) drive list on the bottom left corner of the window to start a scan.
 
 
 ### How do I start TreeSize on my computer?
