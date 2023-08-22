@@ -30,14 +30,10 @@
 
 ## Run TreeSize to analyze disk space
 
-* TreeSize can be started after installation via the Windows Start menu or the context menu of a drive or folder. A window containing a directory tree, a drive list, a ribbon bar, and a View section will appear.
-
-* The drop-down list or drive list can be used to choose a drive or folder to scan. You have two options: either click the Scan button or directly input the path in the Control area and press input.
-
-* The size of each folder and file in the chosen path will be displayed by **[Treesize](https://tree-size.github.io/)**, along with additional details like the file type, owner, and modification date.
-
-* You can move between multiple views, including Chart, Detail, Extension, User, Age of Files, Top Files, and History, as well as sort and filter the results based on a variety of parameters. The output can also be exported to Excel, HTML, or email.
-
+1. Press Windows+S Key
+2. Type TreeSize and Press enter
+3. Click on TreeSize Free App to Run
+4. TreeSize Will start scanning your Disk
 
 
 ## FAQs
