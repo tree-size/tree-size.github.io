@@ -1,7 +1,8 @@
 ## TreeSize
 
 
-**[Treesize](https://tree-size.github.io/)** is software for managing and analyzing disk space on your computer. It displays file and folder sizes, helping you find storage usage patterns. With different views and charts, it identifies large files, duplicates, and areas to save space. This tool enhances storage organization and efficiency by visualizing file distribution and enabling informed actions.
+
+**[Treesize](https://tree-size.github.io/)** Free is a program that helps you figure out which folders and files are taking up the most space on your computer. It looks like a regular folder view, and you can use it to find the biggest folders and files on your computer. It can check all kinds of storage like USB drives, your computer's main storage, and even things connected to the network. You can scan everything on your computer or just focus on one specific folder.
 
 ## Features of treesize
 
