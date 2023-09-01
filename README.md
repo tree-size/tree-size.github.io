@@ -17,17 +17,6 @@
 * NTFS Support
 
 
-## New Update TreeSize Version 4.7
-
-* TreeSize now supports creating new folders.
-* The settings of the Description list columns can now be reset to default settings from within the application.
-* Some usability improvements have been made to the app. Among other things, the filter dialog is now located on the "Scan" tab, just like in Personal/Business.
-* The appearance of the Filter dialog has been modified.
-* Fixed an error that could occur in some cases when deleting a [Files] node.
-* In rare cases incorrect functions were listed in the quick access bar after a TreeSize update. It has been fixed.
-* Other minor bugs have been fixed.
-
-
 ## How to Download and Install TreeSize?
 
 1. Go to **[Treesize download page](https://apps.microsoft.com/store/detail/treesize-free/XP9M26RSCLNT88)** and Click on "Get in Store App" and then Install
